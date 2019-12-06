@@ -16,7 +16,7 @@ ____________________
 
 After the malware is initialized, run it by executing:
 
-*./<name_of_file>* or *python <name of file>*
+*./<name_of_file>* or *python <name_of_file>*
 
 ____________________
 
